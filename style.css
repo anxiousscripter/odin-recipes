@@ -1,0 +1,27 @@
+a {
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: #e0b986;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(151, 125, 91);
+}
+
+h1, h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 350px;
+  height: auto;
+}
+
+p, li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
